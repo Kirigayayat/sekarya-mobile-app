@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name">sekarya-mobile-app</string>
+    <string name="home">Home</string>
+    <string name="favorite">Favorite</string>
+    <string name="search_hint">Cari Disini</string>
+    <string name="hire">Hire</string>
+    <string name="profile">Profile</string>
+    <string name="reset_your_password">Reset your password</string>
+    <string name="desc_reset_password">Please enter your email and we will send an OTP code in the next step to reset your password.</string>
+    <string name="example_email">example@gmail.com</string>
+    <string name="email">Email</string>
+    <string name="lanjut">Continue</string>
+    <string name="otp_code_verification">OTP code verification</string>
+    <string name="desc_otp_verif">We have sent an OTP code to your email example@gmail.com. Enter the OTP code below to verify.</string>
+    <string name="didn_t_receive_email">Didn’t receive email?</string>
+    <string name="you_can_resend_code_in">You can resend code in</string>
+    <string name="_55">55 s</string>
+    <string name="create_new_password">Create new password</string>
+    <string name="desc_new_pass">Create new password if you forget it, then you have to do forgot password.</string>
+    <string name="new_password">New Password</string>
+    <string name="confirm_new_password">Confirm New Password</string>
+    <string name="create">Create</string>
+    <string name="art_of_the_week">Art of The Week</string>
+    <string name="name">Name</string>
+    <string name="user_name">User Name</string>
+    <string name="image_card_home">Image Card Home</string>
+    <string name="example_name">dream_art</string>
+    <string name="image_card_user">Image card User</string>
+    <string name="favorite_saya">Favorite Saya</string>
+    <string name="title_home">Title Home</string>
+    <string name="title_favorite">Title Favorite</string>
+    <string name="title_popup">Kisah Sangkuriang</string>
+    <string name="username_popup">Tatang Studio</string>
+    <string name="available_for_work">Available for work</string>
+    <string name="home_popup_desc">Hey Guys I\'m glad to share a new project with you</string>
+    <string name="home_popup_desc_2">Cooperation can be contacted Email: hafiryamun88@gmail.com If you like, you can also follow me on instagram</string>
+    <string name="work_with_me">Work with me</string>
+    <string name="work_with_the_artist">Work with the Artist</string>
+    <string name="captain_art">Captain Art</string>
+    <string name="posted_2hr_ago">Posted 2hr Ago</string>
+    <string name="people_art_ncostume_art">People Art \nCostume Art</string>
+    <string name="remote_friendly">Remote Friendly</string>
+    <string name="_100_portofolio">100+ Portofolio</string>
+    <string name="start_idr_300k">Start IDR 300K</string>
+    <string name="button_favorite">Button Favorite</string>
+    <string name="button_bookmark">Button Bookmark</string>
+    <string name="button_message">Button Message</string>
+    <string name="button_cart">Button Cart</string>
+    <string name="button_notifications">Button Notifications</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="continu">Continue</string>
+    <string name="upload">Upload</string>
+    <string name="upload_your_human_artwork">Upload Your Human Artwork</string>
+    <string name="aI_generated_art_would_be_declined">AI Generated Art would be declined</string>
+    <string name="terms_and_condition">Terms and Condition</string>
+    <string name="terms_and_condition_description">
+        \n- Minimum 1600px width recommended
+        \n- Max 5MB for each file
+        \n- High resolution images (png, jpg, gif)
+        \n- Only upload media you own the rights to
+        \n<b>- Upload Your Human-made Artwork</b>>
+        \n<b>- Our Engine will decline an AI artwork</b>
+    </string>
+    <string name="give_me_a_name">Give me a name</string>
+    <string name="description">Description</string>
+    <string name="tags"><b>Tags</b>(maximum 3)</string>
+    <string name="open_for_commission_job">Open for Commission Job</string>
+    <string name="add_tags">Add Tags....</string>
+    <string name="description_hint">Write  any details you’d like to mention</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
